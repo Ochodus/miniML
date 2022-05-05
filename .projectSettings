@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="OcamlProjectSettings">
+	<section name="MakefileSettings">
+		<item key="ocaml_make_variant" value="GNU_MAKE"/>
+		<list key="ocaml_make_options">
+			<item value=""/>
+		</list>
+		<list key="ocaml_makefile_targets">
+			<item value="lang.cmo"/>
+			<item value="parser.ml"/>
+			<item value="parser.mli"/>
+			<item value="parser.cmi"/>
+			<item value="parser.cmo"/>
+			<item value="interpreter_static.cmo"/>
+			<item value="interpreter_dynamic.cmo"/>
+			<item value="main.cmo"/>
+			<item value="lexer.cmo"/>
+			<item value="lexer.ml"/>
+			<item value="run"/>
+		</list>
+		<list key="ocaml_makefile_clean_targets">
+			<item value="lang.cmo"/>
+			<item value="parser.ml"/>
+			<item value="parser.mli"/>
+			<item value="parser.cmi"/>
+			<item value="parser.cmo"/>
+			<item value="interpreter_static.cmo"/>
+			<item value="interpreter_dynamic.cmo"/>
+			<item value="main.cmo"/>
+			<item value="lexer.cmo"/>
+			<item value="lexer.ml"/>
+			<item value="run"/>
+		</list>
+		<list key="ocaml_makefile_doc_targets">
+			<item value="lang.cmo"/>
+			<item value="parser.ml"/>
+			<item value="parser.mli"/>
+			<item value="parser.cmi"/>
+			<item value="parser.cmo"/>
+			<item value="interpreter_static.cmo"/>
+			<item value="interpreter_dynamic.cmo"/>
+			<item value="main.cmo"/>
+			<item value="lexer.cmo"/>
+			<item value="lexer.ml"/>
+			<item value="run"/>
+		</list>
+	</section>
+</section>

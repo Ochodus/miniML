@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>miniML</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>Ocaml.ocamlMakefileBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>ocaml.ocamlnatureMakefile</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>OCAMLLIB</name>
+			<value>file:/C:/OCaml64/home/mario/.opam/4.13.1+mingw64c/lib/ocaml</value>
+		</variable>
+		<variable>
+			<name>PATH</name>
+			<value>file:/C:/OCaml64/home/mario/.opam/4.13.1+mingw64c/bin</value>
+		</variable>
+	</variableList>
+</projectDescription>
