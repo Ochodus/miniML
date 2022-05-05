@@ -1,0 +1,11 @@
+*.swp
+*.cmo
+*.cmi
+*.mli
+lexer.ml
+parser.ml
+build.launch
+.paths
+.project
+.projectSettings
+run
